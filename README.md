@@ -10,4 +10,4 @@ This page uses a basic webpage to show case UFO sightings. Table columns consist
 
 
 The page can be found at the following link:
-fk_java.github.io
+https://fkokro.github.io/fk_java.github.io/
